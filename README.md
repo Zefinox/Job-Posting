@@ -1,22 +1,19 @@
-\# Job Postings Tracker Report with Power BI
+# Job Postings Tracker Report with Power BI
 
 
 
->\[!NOTE]
-
+>[!NOTE]
 >Dataset is taken from the 8-hour Power BI tutorial of Luke Barousse
-
 >Data is limited to 5,000 rows for ease of reporting
 
 
 
->\[!NOTE]
-
+>[!NOTE]
 >This is a personal project showcasing my skills in PowerBI
 
 
 
-\## Skills performed
+## Skills performed
 
 
 
@@ -28,7 +25,7 @@
 
 
 
-\## Dashboard Goals and Key Objectives
+## Dashboard Goals and Key Objectives
 
 
 
@@ -43,7 +40,7 @@
 
 
 
-2\. Job Categories and Characteristics
+2. Job Categories and Characteristics
 
 
 
@@ -55,7 +52,7 @@
 
 
 
-3\. Annual \& Hourly Salary Comparison 
+3. Annual & Hourly Salary Comparison 
 
 
 
@@ -64,5 +61,12 @@
 
 
 
+##Images
+1. Main Page
+![Screenshot of Main Page](https://github.com/Zefinox/Job-Posting/blob/main/Images/Main%20Dashboard.png)
+2. Job Characteristics
+![Screenshot of Job Characteristics](https://github.com/Zefinox/Job-Posting/blob/main/Images/Job%20Characteristics.png)
+3. Annual & Hourly Salary Comparison
+![Screenshot of Salary Comparisons](https://github.com/Zefinox/Job-Posting/blob/main/Images/Annual%20%26%20Hourly%20Salary%20Comparison.png)
 
 
