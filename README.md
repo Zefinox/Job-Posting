@@ -1,21 +1,68 @@
-# Job-Posting
-
-Personal Project with custom schema for ease of understanding, the visuals are fully interactable inside PowerBI. 
-
-Unfortunately, publishing requires a monthly subscription that I can't personally handle.
+\# Job Postings Tracker Report with Power BI
 
 
 
-G-Sheets Link for the data being utilized
-Link: https://docs.google.com/spreadsheets/d/1s-THnslajSoDMQQtYJ\_pwfBevCzpnlQxuFRQbHhlydw/edit?usp=sharing
+>\[!NOTE]
+
+>Dataset is taken from the 8-hour Power BI tutorial of Luke Barousse
+
+>Data is limited to 5,000 rows for ease of reporting
 
 
 
-This link is an example where as long as data is being fed into the sheets, the visuals will auto update.
-Effectively providing a real-time update on current job-postings.
+>\[!NOTE]
+
+>This is a personal project showcasing my skills in PowerBI
 
 
 
-This system can also be fitted very will to small to medium enterprises that requires precise operations tracking.
-Utilizing basic DAX and M language to categorize data in a much more granulated manner if need be.
+\## Skills performed
+
+
+
+1. ETL Processing
+2. Relational Databases and Schema Creation
+3. Data Transformation via DAX and M Query
+4. Database connection to PowerBI 
+5. Creative Data Layout with Data Storytelling in mind. 
+
+
+
+\## Dashboard Goals and Key Objectives
+
+
+
+1. Main Page 
+
+
+
+* What is the current job count for every Data related jobs?
+* Which position have the highest annual \& hourly salary?
+* Where are the jobs demands?
+* What is the salary trend per Data related jobs? 
+
+
+
+2\. Job Categories and Characteristics
+
+
+
+* How many of the jobs are WFH?
+* How many of the jobs requires a degree?
+* What is the most evident skills required?
+* What is the current work schedule? 
+* For that specific Data related job, where is the job demand?
+
+
+
+3\. Annual \& Hourly Salary Comparison 
+
+
+
+* Which pay setup pays higher annually the annual or hourly set up?
+* Which days do employers most likely post their listings?
+
+
+
+
 
